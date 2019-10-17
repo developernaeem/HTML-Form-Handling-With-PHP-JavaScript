@@ -1,2 +1,2 @@
-# PHP-Form-Handling
-PHP Form Handling
+# HTML Form Handling With PHP & JavaScript
+HTML Form Handling With PHP & JavaScript
